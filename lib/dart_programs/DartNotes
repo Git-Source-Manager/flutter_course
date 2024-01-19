@@ -1,0 +1,27 @@
+DART PROGRAMMING LANGUAGE
+Introduction
+1) Two Compilation Process
+   1) Just In Time  - JIT
+   2) Ahead of Time - AOT
+
+2) SDK - Software Development Kit
+3) DART Programs
+   1) main
+   2) print();
+   3) calculation
+   4) multi-calculation print(75/(5+2));
+   5) comments [//,/**/]
+   6) variables - int, double, String, bool, dynamic
+   7) check - isEven, isOdd, isNegative, isFinite, isInfinite ---> It Returns true (or) false.
+   8) abs
+   9) -=, +=, ==, !=
+   10) to print $ symbol ---> '\$ 12' (use backslash to use $)
+   11) lengthy text use '''Hello             World'''
+   12) var, val, final, const
+   13) null safety
+       String someValue;
+       print(someValue?.length) ---> If someValue is null then print the same otherwise, print the length.
+   14) conditional statement ---> simple if, if else, if else if, nested if statement
+   15) startsWith, endsWith, isEmpty, isNotEmpty
+   16) switch statement & switch case with `when` to perform relational condition in switch case
+   17) loop statement ---> for, while, do while
